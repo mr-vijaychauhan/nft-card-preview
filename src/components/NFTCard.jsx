@@ -45,7 +45,7 @@ const NFTCard = () => {
         <Image className="w-8 h-8 rounded-full border-2" src={Avatar} />
         <div className="flex gap-1 text-md">
           <span className="text-soft-blue opacity-60">Creation of</span>
-          <a href="#" className="text-white cursor-pointer hover:text-cyan">
+          <a href="#" className="text-white cursor-pointer hover:text-cyan opacity-80">
             Jules Wyvern
           </a>
         </div>
